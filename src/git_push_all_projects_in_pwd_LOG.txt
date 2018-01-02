@@ -1,0 +1,4 @@
+[master dd289ce] update
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 src/git_push_all_projects_in_pwd_LOG.txt
+/g/[important]MyCode/[Important]JavaApiUtilOrExample/target

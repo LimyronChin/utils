@@ -1,0 +1,4 @@
+[master 6b367c3] update
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 .idea/git_push_all_projects_in_pwd_LOG.txt
+/g/[important]MyCode/[Important]JavaApiUtilOrExample/bin
