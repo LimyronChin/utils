@@ -1,2 +1,17 @@
 /g/[important]MyCode/[Important]JavaApiUtilOrExample
 2018年01月 2日 20:08:22
+[master ce6d1c4] update
+ 11 files changed, 2 insertions(+), 40 deletions(-)
+ delete mode 100644 .idea/git_push_all_projects_in_pwd_LOG.txt
+ delete mode 100644 bin/git_push_all_projects_in_pwd_LOG.txt
+ delete mode 100644 chunk/git_push_all_projects_in_pwd_LOG.txt
+ delete mode 100644 classes/git_push_all_projects_in_pwd_LOG.txt
+ create mode 100644 git_push_all_projects_in_pwd_LOG.txt
+ delete mode 100644 lib/git_push_all_projects_in_pwd_LOG.txt
+ delete mode 100644 logs/git_push_all_projects_in_pwd_LOG.txt
+ delete mode 100644 out/git_push_all_projects_in_pwd_LOG.txt
+ delete mode 100644 source/git_push_all_projects_in_pwd_LOG.txt
+ delete mode 100644 src/git_push_all_projects_in_pwd_LOG.txt
+ delete mode 100644 target/git_push_all_projects_in_pwd_LOG.txt
+/g/[important]MyCode/[Important]JavaApiUtilOrExample
+2018年01月 3日  9:06:41
